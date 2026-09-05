@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="about">Tentang</string>
+    <!-- Image Preview -->
+    <string name="info">Info</string>
+    <string name="filter">Filter</string>
+    <string name="add">Tambah</string>
+    <!-- Info Dialog -->
+    <string name="author">Penulis</string>
+    <string name="resolution">Resolusi</string>
+    <string name="category">Kategori</string>
+    <string name="fileSize">Ukuran berkas</string>
+    <string name="source">Sumber</string>
+    <string name="creationDate">Tanggal pembuatan</string>
+    <!-- Set wallpaper -->
+    <string name="both">Keduanya</string>
+    <string name="home">Tampilan depan</string>
+    <string name="lockscreen">Kunci layar</string>
+    <!-- Preference categories -->
+    <string name="general">Umum</string>
+    <string name="cache">Cache</string>
+    <!-- Preferences -->
+    <string name="crop">Pangkas gambar</string>
+    <string name="coil_cache">Cache gambar koil</string>
+    <string name="wallpaper_changer">Pengubah wallpaper</string>
+    <string name="change_interval">Ubah interval</string>
+    <!-- Theme -->
+    <string name="theme_mode">Tema</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Belum ada favorit</string>
+    <!-- About -->
+    <string name="version">Versi</string>
+    <string name="license">Lisensi</string>
+    <string name="website">Website</string>
+    <string name="auto_add_to_favorites">Tambahkan ke favorit jika saat diterapkan</string>
+    <string name="applying_random">Menerapkan wallpaper acak</string>
+    <string name="blur">Buram</string>
+    <string name="reset">Mengatur ulang</string>
+    <string name="local">Lokal</string>
+    <string name="wallpaper_changer_source">Mengubah sumber wallpaper</string>
+    <string name="online">Menggunakan Jaringan</string>
+    <string name="choose_dir">Pilih direktori</string>
+    <string name="grayscale">Abu-Abu</string>
+    <string name="add_to_favorites">Tambahkan ke favorit</string>
+    <string name="community_name">Nama komunitas</string>
+    <string name="set_wallpaper">Atur wallpaper</string>
+    <string name="wallpaper_preview">Pratinjau wallpaper</string>
+    <string name="combine_wallpaper_changers">Pengubah wallpaper tergabung</string>
+    <string name="download">Unduh</string>
+    <string name="combine_wallpaper_changers_summary">Gunakan wallpaper yang sama untuk beranda dan layar kunci.</string>
+    <string name="directories">Direktori</string>
+    <string name="random_wallpaper">Wallpaper acak</string>
+    <string name="none">Tidak ada</string>
+    <string name="contrast">Kontras</string>
+    <string name="resize_method">Metode ubah ukuran</string>
+    <string name="zoom">Perbesar (pertahankan rasio aspek)</string>
+    <string name="fit_height">Paskan tinggi</string>
+    <string name="fit_width">Paskan lebar</string>
+    <string name="import_export">Impor &amp; ekspor</string>
+    <string name="import_favorites">Impor favorit</string>
+    <string name="export_favorites">Ekspor favorit</string>
+    <string name="success">Sukses!</string>
+    <string name="current_directory">Saat ini</string>
+    <string name="set_with">Atur Dengan...</string>
+    <string name="set_as">Atur Sebagai</string>
+    <string name="apply">Terapkan</string>
+    <string name="preview_invert_effect">Pratinjau Efek Penyesuaian Warna</string>
+    <string name="details">Detail</string>
+    <string name="label">Label</string>
+    <string name="error">Kesalahan</string>
+    <string name="favorite">Favorit</string>
+    <string name="go_back">Kembali</string>
+    <string name="image_info">Info gambar</string>
+    <string name="saving_wallpaper">Menyimpan Wallpaper</string>
+    <string name="applying_wallpaper">Menerapkan Wallpaper</string>
+    <string name="dismiss">Keluar</string>
+    <string name="edit">Sunting</string>
+    <string name="colors">Warna</string>
+    <string name="done">Selesai</string>
+    <string name="save">Simpan</string>
+    <string name="image_url">URL gambar</string>
+    <string name="network_type">Jenis jaringan</string>
+    <string name="unmetered">Tidak diukur</string>
+    <string name="not_roaming">Tidak roaming</string>
+    <string name="all_networks">Semua jaringan</string>
+    <string name="metered">Diukur</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="apply_image_filters">Terapkan penyaring gambar</string>
+    <string name="no_history">Belum ada riwayat</string>
+    <string name="wallpaper_history">Riwayat wallpaper</string>
+    <string name="history">Riwayat</string>
+    <string name="description">Deskripsi</string>
+    <string name="invalid_time_interval">Interval waktu tidak valid</string>
+    <string name="add_wallpaper_changer_rule">Tambahkan peraturan pengubah wallpaper</string>
+    <string name="time_interval">Interval waktu</string>
+    <string name="hue">Rona</string>
+    <string name="invert_wallpaper">Balikkan wallpaper</string>
+    <string name="brightness">Kecerahan</string>
+    <string name="auto_darken_lighten_by_theme">Kecerahan otomatis berdasarkan tema</string>
+    <string name="auto_darken_lighten_by_theme_desc">Gelapkan atau terangi wallpaper berdasarkan tema secara otomatis</string>
+    <string name="apply_image_filters_desc">Buram, warna, kecerahan, …</string>
+    <string name="time_interval_desc">Jalankan hanya dalam waktu tertentu.</string>
+    <string name="days">hari</string>
+    <string name="hours">jam</string>
+</resources>

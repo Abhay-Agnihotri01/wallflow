@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Избранные</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О программе</string>
+    <!-- Image Preview -->
+    <string name="info">Информация</string>
+    <string name="filter">Фильтр</string>
+    <string name="add">Добавить</string>
+    <!-- Info Dialog -->
+    <string name="author">Автор</string>
+    <string name="resolution">Разрешение</string>
+    <string name="category">Категория</string>
+    <string name="fileSize">Размер файла</string>
+    <string name="source">Источник</string>
+    <string name="creationDate">Дата создания</string>
+    <!-- Set wallpaper -->
+    <string name="both">В оба расположения</string>
+    <string name="home">Главный экран</string>
+    <string name="lockscreen">Экран блокировки</string>
+    <!-- Preference categories -->
+    <string name="general">Основные</string>
+    <string name="cache">Кэш</string>
+    <!-- Preferences -->
+    <string name="crop">Обрезать</string>
+    <string name="coil_cache">Кэш изображений</string>
+    <string name="wallpaper_changer">Смена обоев</string>
+    <string name="change_interval">Интервал смены обоев</string>
+    <!-- Theme -->
+    <string name="theme_mode">Тема оформления</string>
+    <string name="theme_system">Как в системе</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Избранных пока нет</string>
+    <!-- About -->
+    <string name="version">Версия</string>
+    <string name="license">Лицензия</string>
+    <string name="website">Веб-сайт</string>
+    <string name="grayscale">Оттенки серого</string>
+    <string name="blur">Размытие</string>
+    <string name="auto_add_to_favorites">Добавлять в избранное при применении</string>
+    <string name="reset">Сброс</string>
+    <string name="applying_random">Применять случайные обои</string>
+    <string name="local">Приложение</string>
+    <string name="choose_dir">Выбрать папку</string>
+    <string name="online">Онлайн</string>
+    <string name="wallpaper_changer_source">Источник обоев</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="community_name">Название сообщества</string>
+    <string name="set_wallpaper">Установить обои</string>
+    <string name="wallpaper_preview">Предпросмотр обоев</string>
+    <string name="combine_wallpaper_changers">Одинаковые обои</string>
+    <string name="download">Скачать</string>
+    <string name="combine_wallpaper_changers_summary">Использовать одинаковые обои на главном экране и на экране блокировки.</string>
+    <string name="import_export">Импорт и экспорт</string>
+    <string name="success">Успешно!</string>
+    <string name="export_favorites">Экспортировать избранное</string>
+    <string name="import_favorites">Импортировать избранное</string>
+    <string name="current_directory">Текущая</string>
+    <string name="random_wallpaper">Случайные обои</string>
+    <string name="contrast">Контрастность</string>
+    <string name="resize_method">Метод масштабирования</string>
+    <string name="fit_width">Подогнать по ширине</string>
+    <string name="fit_height">Подогнать по высоте</string>
+    <string name="zoom">Увеличить (с сохранением соотношения сторон)</string>
+    <string name="none">Ничего не делать</string>
+    <string name="directories">Пути</string>
+    <string name="set_with">Установить с...</string>
+    <string name="wallpaper">Обои</string>
+    <string name="apply">Применить</string>
+    <string name="done">Готово</string>
+    <string name="save">Сохранить</string>
+    <string name="dismiss">Отклонить</string>
+    <string name="set_as">Установить как</string>
+    <string name="preview_invert_effect">Предпросмотр инверсии</string>
+    <string name="colors">Цвета</string>
+    <string name="details">Подробности</string>
+    <string name="label">Метка</string>
+    <string name="error">Ошибка</string>
+    <string name="edit">Редактировать</string>
+    <string name="favorite">Добавить в избранное</string>
+    <string name="go_back">Назад</string>
+    <string name="image_info">Об изображении</string>
+    <string name="saving_wallpaper">Сохранение обоев</string>
+    <string name="applying_wallpaper">Применение обоев</string>
+    <string name="not_roaming">Не в роуминге</string>
+    <string name="network_type">Тип подключения</string>
+    <string name="unmetered">Безлимитное</string>
+    <string name="metered">Лимитированное</string>
+    <string name="image_url">Ссылка на изображение</string>
+    <string name="all_networks">Любое</string>
+    <string name="apply_image_filters">Применить фильтры</string>
+    <string name="history">История</string>
+    <string name="wallpaper_history">История обоев</string>
+    <string name="no_history">Пока ничего нет</string>
+    <string name="description">Описание</string>
+    <string name="time_interval">Период</string>
+    <string name="invalid_time_interval">Неправильный период</string>
+    <string name="add_wallpaper_changer_rule">Добавить правило смены обоев</string>
+    <string name="brightness">Яркость</string>
+    <string name="hue">Тон</string>
+    <string name="invert_wallpaper">Инвертировать обои</string>
+    <string name="auto_darken_lighten_by_theme">Авто-яркость по теме</string>
+    <string name="auto_darken_lighten_by_theme_desc">Автоматически затемнять или осветлять обои на основе темы</string>
+    <string name="apply_image_filters_desc">Размытие, оттенок, яркость, …</string>
+    <string name="time_interval_desc">Запускать только между определёнными отметками времени.</string>
+    <string name="days">дни</string>
+    <string name="hours">часы</string>
+</resources>

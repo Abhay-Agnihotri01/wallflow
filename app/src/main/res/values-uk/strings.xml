@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Обране</string>
+    <string name="settings">Налаштування</string>
+    <string name="about">Про застосунок</string>
+    <!-- Image Preview -->
+    <string name="info">Інформація</string>
+    <string name="filter">Фільтр</string>
+    <string name="add">Додати</string>
+    <!-- Info Dialog -->
+    <string name="author">Автор</string>
+    <string name="resolution">Роздільна здатність</string>
+    <string name="category">Категорія</string>
+    <string name="fileSize">Розмір файлу</string>
+    <string name="source">Джерело</string>
+    <string name="creationDate">Дата створення</string>
+    <!-- Set wallpaper -->
+    <string name="both">Обидва</string>
+    <string name="home">Головний екран</string>
+    <string name="lockscreen">Екран блокування</string>
+    <!-- Preference categories -->
+    <string name="general">Загальне</string>
+    <string name="cache">Кеш</string>
+    <!-- Preferences -->
+    <string name="crop">Обрізати зображення</string>
+    <string name="coil_cache">Кеш зображень</string>
+    <string name="wallpaper_changer">Зміна шпалер</string>
+    <string name="change_interval">Інтервал зміни</string>
+    <!-- Theme -->
+    <string name="theme_mode">Тема</string>
+    <string name="theme_system">Системна</string>
+    <string name="theme_light">Світла</string>
+    <string name="theme_dark">Темна</string>
+    <!-- Favorites -->
+    <string name="no_favorites">Обраних ще немає</string>
+    <!-- About -->
+    <string name="version">Версія</string>
+    <string name="license">Ліцензія</string>
+    <string name="website">Вебсайт</string>
+    <string name="grayscale">Відтінки сірого</string>
+    <string name="blur">Розмиття</string>
+    <string name="auto_add_to_favorites">Додавати до списку обраних під час застосування</string>
+    <string name="reset">Скидання</string>
+    <string name="applying_random">Застосувати випадкові шпалери</string>
+    <string name="wallpaper_changer_source">Джерело зміни шпалер</string>
+    <string name="online">Онлайн</string>
+    <string name="local">Локально</string>
+    <string name="choose_dir">Виберіть каталог</string>
+    <string name="add_to_favorites">Додати до обраних</string>
+    <string name="community_name">Назва спільноти</string>
+    <string name="set_wallpaper">Встановити шпалери</string>
+    <string name="wallpaper_preview">Попередній перегляд шпалер</string>
+    <string name="combine_wallpaper_changers">Комбінована зміна шпалер</string>
+    <string name="download">Завантажити</string>
+    <string name="combine_wallpaper_changers_summary">Використовуйте однакові шпалери для головного екрана та екрана блокування.</string>
+    <string name="import_export">Імпорт та експорт</string>
+    <string name="success">Успішно!</string>
+    <string name="current_directory">Поточна</string>
+    <string name="export_favorites">Експортувати обране</string>
+    <string name="import_favorites">Імпортувати обране</string>
+    <string name="directories">Каталоги</string>
+    <string name="random_wallpaper">Випадкові шпалери</string>
+    <string name="contrast">Контраст</string>
+    <string name="resize_method">Метод зміни розміру</string>
+    <string name="zoom">Масштабування (зберігає співвідношення сторін)</string>
+    <string name="fit_height">Регулювання висоти</string>
+    <string name="fit_width">Регулювання ширини</string>
+    <string name="none">Нічого</string>
+    <string name="wallpaper">Шпалера</string>
+    <string name="apply">Застосувати</string>
+    <string name="set_with">Встановити з...</string>
+    <string name="set_as">Встановити як</string>
+    <string name="preview_invert_effect">Передперегляд ефекта інверсії</string>
+    <string name="error">Помилка</string>
+    <string name="done">Готово</string>
+    <string name="colors">Кольори</string>
+    <string name="details">Подробиці</string>
+    <string name="label">Мітка</string>
+    <string name="save">Зберегти</string>
+    <string name="edit">Редагувати</string>
+    <string name="favorite">Улюблені</string>
+    <string name="go_back">Назад</string>
+    <string name="image_info">Інформація про зображення</string>
+    <string name="saving_wallpaper">Збереження шпалер</string>
+    <string name="applying_wallpaper">Застосування шпалер</string>
+    <string name="dismiss">Відхилити</string>
+    <string name="network_type">Тип мережі</string>
+    <string name="unmetered">Безлімітний</string>
+    <string name="metered">Обмежений</string>
+    <string name="not_roaming">Не в роумінгу</string>
+    <string name="image_url">URL зображення</string>
+    <string name="all_networks">Всі мережі</string>
+    <string name="apply_image_filters">Застосувати фільтри зображень</string>
+    <string name="history">Історія</string>
+    <string name="no_history">Історії ще немає</string>
+    <string name="wallpaper_history">Історія шпалер</string>
+    <string name="description">Опис</string>
+    <string name="add_wallpaper_changer_rule">Додати правило зміни шпалер</string>
+    <string name="time_interval">Часовий інтервал</string>
+    <string name="invalid_time_interval">Неправильний часовий інтервал</string>
+    <string name="auto_darken_lighten_by_theme_desc">Автоматичне затемнення або освітлення шпалер відповідно до теми</string>
+    <string name="brightness">Яскравість</string>
+    <string name="hue">Відтінок</string>
+    <string name="invert_wallpaper">Інвертувати шпалери</string>
+    <string name="auto_darken_lighten_by_theme">Автояскравість за темами</string>
+    <string name="apply_image_filters_desc">Розмиття, відтінок, яскравість, …</string>
+    <string name="time_interval_desc">Працює тільки в зазначений час.</string>
+    <string name="days">днів</string>
+    <string name="hours">годин</string>
+    <string name="wallpaper_changer_summary">Автоматично змінювати шпалери через певні проміжки часу.</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Wall You</string>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Favorites</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <!-- Image Preview -->
+    <string name="info">Info</string>
+    <string name="filter">Filter</string>
+    <string name="add">Add</string>
+    <string name="community_name">Community name</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="download">Download</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <!-- Info Dialog -->
+    <string name="author">Author</string>
+    <string name="resolution">Resolution</string>
+    <string name="category">Category</string>
+    <string name="fileSize">File size</string>
+    <string name="source">Source</string>
+    <string name="creationDate">Creation date</string>
+    <string name="image_url">Image URL</string>
+    <!-- Set Wallpaper -->
+    <string name="both">Both</string>
+    <string name="home">Home screen</string>
+    <string name="lockscreen">Lockscreen</string>
+    <string name="applying_random">Applying random wallpaper</string>
+    <string name="random_wallpaper">Random wallpaper</string>
+    <!-- Image Filters -->
+    <string name="blur">Blur</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="contrast">Contrast</string>
+    <string name="brightness">Brightness</string>
+    <string name="hue">Hue</string>
+    <string name="reset">Reset</string>
+    <!-- Preference categories -->
+    <string name="general">General</string>
+    <string name="cache">Cache</string>
+    <string name="wallpaper_preview">Wallpaper preview</string>
+    <!-- Preferences -->
+    <string name="resize_method">Resize method</string>
+    <string name="crop">Crop</string>
+    <string name="zoom">Zoom (keeps aspect ratio)</string>
+    <string name="fit_height">Fit height</string>
+    <string name="fit_width">Fit width</string>
+    <string name="coil_cache">Coil image cache</string>
+    <string name="wallpaper_changer">Wallpaper changer</string>
+    <string name="wallpaper_changer_summary">Automatically set new wallpaper periodically.</string>
+    <string name="change_interval">Change interval</string>
+    <string name="wallpaper_changer_source">Wallpaper changer source</string>
+    <string name="combine_wallpaper_changers">Combined wallpaper changer</string>
+    <string name="combine_wallpaper_changers_summary">Use the same wallpaper for home and lockscreen.</string>
+    <string name="import_export">Import &amp; export</string>
+    <string name="import_favorites">Import favorites</string>
+    <string name="export_favorites">Export favorites</string>
+    <string name="success">Success!</string>
+    <string name="current_directory">Current</string>
+    <string name="none">None</string>
+    <string name="invert_wallpaper">Invert wallpaper</string>
+    <string name="auto_darken_lighten_by_theme">Auto-brightness by theme</string>
+    <string name="auto_darken_lighten_by_theme_desc">Automatically darken or lighten the wallpaper based on the theme</string>
+    <string name="apply_image_filters">Apply image filters</string>
+    <string name="apply_image_filters_desc">Blur, hue, brightness, …</string>
+    <string name="add_wallpaper_changer_rule">Add wallpaper changer rule</string>
+    <string name="time_interval">Time interval</string>
+    <string name="time_interval_desc">Run only between specified times.</string>
+    <string name="invalid_time_interval">Invalid time interval</string>
+    <string name="days">days</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="minimum_interval_error">Minimum interval is 15 minutes</string>
+    <!-- Network constraints -->
+    <string name="network_type">Network type</string>
+    <string name="all_networks">All networks</string>
+    <string name="unmetered">Unmetered</string>
+    <string name="metered">Metered</string>
+    <string name="not_roaming">Not roaming</string>
+    <!-- Wallpaper changer source -->
+    <string name="online">Online</string>
+    <string name="local">Local</string>
+    <string name="choose_dir">Add directory</string>
+    <string name="directories">Directories</string>
+    <!-- Theme -->
+    <string name="theme_mode">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <!-- Favorites -->
+    <string name="no_favorites">No favorites yet</string>
+    <string name="no_history">No history yet</string>
+    <string name="auto_add_to_favorites">Add to favorites when applying</string>
+    <string name="wallpaper_history">Wallpaper history</string>
+    <!-- About -->
+    <string name="version">Version</string>
+    <string name="github" translatable="false">GitHub</string>
+    <string name="license">License</string>
+    <string name="website">Website</string>
+    <string name="set_with">Set With...</string>
+    <string name="set_as">Set As</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="apply">Apply</string>
+    <string name="preview_invert_effect">Preview Invert Effect</string>
+    <string name="colors">Colors</string>
+    <string name="details">Details</string>
+    <string name="label">Label</string>
+    <string name="description">Description</string>
+    <string name="error">Error</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="favorite">Favourite</string>
+    <string name="go_back">Go Back</string>
+    <string name="image_info">Image Info</string>
+    <string name="saving_wallpaper">Saving Wallpaper</string>
+    <string name="applying_wallpaper">Applying Wallpaper</string>
+    <string name="dismiss">Dismiss</string>
+</resources>

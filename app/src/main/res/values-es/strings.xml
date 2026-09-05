@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation Drawer -->
+    <string name="favorites">Favoritos</string>
+    <string name="settings">Ajustes</string>
+    <string name="about">Acerca de</string>
+    <!-- Image Preview -->
+    <string name="info">Info</string>
+    <string name="filter">Filtrar</string>
+    <string name="add">Añadir</string>
+    <!-- Info Dialog -->
+    <string name="author">Autor</string>
+    <string name="resolution">Resolución</string>
+    <string name="category">Categoría</string>
+    <string name="fileSize">Tamaño del archivo</string>
+    <string name="source">Fuente</string>
+    <string name="creationDate">Fecha de creación</string>
+    <!-- Set Wallpaper -->
+    <string name="both">Ambos</string>
+    <string name="home">Pantalla de inicio</string>
+    <string name="lockscreen">Pantalla de bloqueo</string>
+    <!-- Image Filters -->
+    <string name="blur">Difuminar</string>
+    <string name="grayscale">Escala de grises</string>
+    <string name="reset">Restablecer</string>
+    <!-- Preference categories -->
+    <string name="general">General</string>
+    <string name="cache">Caché</string>
+    <!-- Preferences -->
+    <string name="crop">Recortar imágenes</string>
+    <string name="coil_cache">Caché de imagen de bobina</string>
+    <string name="wallpaper_changer">Cambiador de papel tapiz</string>
+    <string name="change_interval">Intervalo de cambio</string>
+    <!-- Theme -->
+    <string name="theme_mode">Tema</string>
+    <string name="theme_system">Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Oscuro</string>
+    <!-- Favorites -->
+    <string name="no_favorites">No hay favoritos todavía</string>
+    <string name="auto_add_to_favorites">Añadir a favoritos al aplicar</string>
+    <!-- About -->
+    <string name="version">Versión</string>
+    <string name="license">Licencia</string>
+    <string name="website">Página web</string>
+    <string name="applying_random">Aplicar un fondo de pantalla al azar</string>
+    <string name="wallpaper_changer_source">Fuente del cambio del fondo de pantalla</string>
+    <string name="online">Conectado</string>
+    <string name="local">Local</string>
+    <string name="choose_dir">Seleccionar directorio</string>
+    <string name="add_to_favorites">Añadir a favoritos</string>
+    <string name="community_name">Nombre de la comunidad</string>
+    <string name="set_wallpaper">Establecer un fondo de pantalla</string>
+    <string name="wallpaper_preview">Vista previa del fondo de pantalla</string>
+    <string name="combine_wallpaper_changers">Combinar el fondo de pantalla</string>
+    <string name="download">Descargar</string>
+    <string name="combine_wallpaper_changers_summary">Utiliza el mismo fondo de pantalla para la pantalla de inicio y la pantalla de bloqueo.</string>
+    <string name="import_export">Importación y exportación</string>
+    <string name="success">¡Éxitoso!</string>
+    <string name="current_directory">Actual</string>
+    <string name="export_favorites">Exportar los favoritos</string>
+    <string name="import_favorites">Importar los favoritos</string>
+    <string name="resize_method">Redimensionamiento</string>
+    <string name="contrast">Contraste</string>
+    <string name="directories">Directorios</string>
+    <string name="random_wallpaper">Fondo de pantalla aleatorio</string>
+    <string name="none">Ninguno</string>
+    <string name="zoom">Zoom (mantiene el aspecto)</string>
+    <string name="fit_height">Ajustar la altura</string>
+    <string name="fit_width">Ajustar el ancho</string>
+    <string name="set_with">Configúrelo con...</string>
+    <string name="set_as">Establecer como</string>
+    <string name="wallpaper">Fondo de pantalla</string>
+    <string name="apply">Aplicar</string>
+    <string name="preview_invert_effect">Vista previa del efecto Invertir</string>
+    <string name="colors">Colores</string>
+    <string name="details">Detalles</string>
+    <string name="label">Etiqueta</string>
+    <string name="error">Error</string>
+    <string name="done">Hecho</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="favorite">Favorito</string>
+    <string name="go_back">Atrás</string>
+    <string name="image_info">Información de la imagen</string>
+    <string name="saving_wallpaper">Guardar fondo de pantalla</string>
+    <string name="applying_wallpaper">Aplicar el fondo de pantalla</string>
+    <string name="dismiss">Descartar</string>
+    <string name="metered">Medida</string>
+    <string name="not_roaming">Sin itinerancia</string>
+    <string name="image_url">URL de la imagen</string>
+    <string name="network_type">Tipo de red</string>
+    <string name="all_networks">Todas las redes</string>
+    <string name="unmetered">Sin límite</string>
+    <string name="apply_image_filters">Aplicar filtros de imagen</string>
+    <string name="history">Historial</string>
+    <string name="wallpaper_history">Historial de fondos de pantalla</string>
+    <string name="no_history">Sin historial aún</string>
+    <string name="description">Descripción</string>
+    <string name="add_wallpaper_changer_rule">Añadir regla de cambio de fondo de pantalla</string>
+    <string name="time_interval">Intervalo de tiempo</string>
+    <string name="invalid_time_interval">Intervalo de tiempo no válido</string>
+    <string name="brightness">Brillo</string>
+    <string name="hue">Matiz</string>
+    <string name="invert_wallpaper">Invertir fondo de pantalla</string>
+    <string name="auto_darken_lighten_by_theme">Brillo automático por el tema</string>
+    <string name="auto_darken_lighten_by_theme_desc">Oscurecer o iluminar el fondo de pantalla basado en el tema</string>
+    <string name="days">días</string>
+    <string name="hours">horas</string>
+    <string name="time_interval_desc">Correr solo entre tiempos específicos.</string>
+    <string name="apply_image_filters_desc">Desenfoque, tono, brillo, …</string>
+    <string name="wallpaper_changer_summary">Aplicar automáticamente un nuevo fondo de pantalla periódicamente.</string>
+</resources>
