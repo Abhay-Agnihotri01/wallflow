@@ -30,6 +30,7 @@ import net.youapps.wallpaper_apis.le.LemmyApi
 import net.youapps.wallpaper_apis.na.NasaPotdApi
 import net.youapps.wallpaper_apis.ow.OwallsApi
 import net.youapps.wallpaper_apis.pb.PixabayApi
+import net.youapps.wallpaper_apis.pi.PinterestApi
 import net.youapps.wallpaper_apis.ps.PicsumApi
 import net.youapps.wallpaper_apis.px.GooglePixelApi
 import net.youapps.wallpaper_apis.re.RedditApi
@@ -87,7 +88,8 @@ class App : Application(), ImageLoaderFactory {
                 WallpaperApiWrapper(NasaPotdApi(), Icons.Default.Star),
                 WallpaperApiWrapper(WikipediaPotdApi(), Icons.Default.Today),
                 WallpaperApiWrapper(PicsumApi(), Icons.Default.AreaChart),
-                WallpaperApiWrapper(ImgthApi(), Icons.Default.GridView)
+                WallpaperApiWrapper(ImgthApi(), Icons.Default.GridView),
+                WallpaperApiWrapper(PinterestApi(), Icons.Default.Star) // reusing Star or any other icon for now
             )
         }
     }
