@@ -24,6 +24,7 @@ import com.bnyro.wallpaper.db.DatabaseHolder
 import com.bnyro.wallpaper.util.Preferences
 import com.bnyro.wallpaper.util.WallpaperApiWrapper
 import net.youapps.wallpaper_apis.RetrofitHelper
+import net.youapps.wallpaper_apis.customjson.CustomJsonApi
 import net.youapps.wallpaper_apis.bi.BingApi
 import net.youapps.wallpaper_apis.im.ImgthApi
 import net.youapps.wallpaper_apis.le.LemmyApi
@@ -89,7 +90,8 @@ class App : Application(), ImageLoaderFactory {
                 WallpaperApiWrapper(WikipediaPotdApi(), Icons.Default.Today),
                 WallpaperApiWrapper(PicsumApi(), Icons.Default.AreaChart),
                 WallpaperApiWrapper(ImgthApi(), Icons.Default.GridView),
-                WallpaperApiWrapper(PinterestApi(), Icons.Default.Star) // reusing Star or any other icon for now
+                WallpaperApiWrapper(PinterestApi(), Icons.Default.Star), // reusing Star or any other icon for now
+                WallpaperApiWrapper(CustomJsonApi(), Icons.Default.Book) // reusing Book for Custom JSON
             )
         }
     }
