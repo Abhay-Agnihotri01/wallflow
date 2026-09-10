@@ -18,14 +18,14 @@ interface CustomJsonService {
 class CustomJsonApi : WallpaperApi() {
     override val name = "Custom JSON"
     override val baseUrl = "https://example.com" // Dummy baseUrl since we use @Url
-    override val requiresCommunityName = false
+    override val requiresCommunityName = true
 
     private val api = RetrofitHelper.create<CustomJsonService>(baseUrl)
 
     override suspend fun getWallpapers(page: Int): List<Wallpaper> {
         if (page != 1) return emptyList()
 
-        val urlString = "https://gist.githubusercontent.com/Abhay-Agnihotri01/9d1acb918faef6d7c562818961620736/raw/69a6744ef88f53915d5e85f45a60d745027a65b3/gistfile1.txt"
+        val urlString = communityName ?: return emptyList()
         val url = urlString.trim()
         if (url.isEmpty()) return emptyList()
 
